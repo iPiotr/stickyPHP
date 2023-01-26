@@ -10,7 +10,7 @@ Projekt aplikacji "Sticky Notes" to prosta aplikacja webowa napisana w PHP, któ
 Dane użytkowników są przechowywane w bazie danych MySQL za pomocą phpMyAdmin. Każde konto będzie składać się z loginu i hasła, oraz informacji o notatkach, takich jak treść, położenie i id którego to są notatki.
 
 ## Strona logowania ##
-![Login Page](https://imgur.com/a/Si63ekE.png)
+![Login Page](https://i.imgur.com/px3EZXU.png)
 
 ## Sticky Notes Pulpit ##
-![Dashboard]()
+![Dashboard](https://i.imgur.com/sylrIP5.png)
